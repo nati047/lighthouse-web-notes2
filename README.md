@@ -5,4 +5,3 @@ This repository contains all of the notes taken by [Natnael](https://github.com/
 ## Table of contents
 * [Week 1](/Week_1)
   * [Day 1](/Week_1/Day_1)
-  
